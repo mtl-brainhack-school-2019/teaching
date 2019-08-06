@@ -25,7 +25,7 @@ This week will be devoted to science communication. The assignment for this week
     - 5pm: Open science social at McCarold's Pub
 
 #### Thursday, August 22nd
-    - 9am - 10am: Be friendly to your users: Add comments and tutorials to your code
+    - 9am - 10am: Be friendly to your users: Add comments and tutorials to your code - Giovanni Volpe
     - 10am - 12pm: Project work
     - 12pm - 1pm, Lunch
     - 1pm - 5pm: Project work
