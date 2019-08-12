@@ -23,7 +23,7 @@
     - 17:00 - Optional social event (ends around 20:00)
 
 #### Thursday, August 15th
-    - 09:00 - The Boutiques library - Tristan Glatard
+    - 09:00 - The Boutiques library - Greg Kiar
     - 10:00 - Free hacking
     - 12:00 - Lunch
     - 13:00 - project presentation
