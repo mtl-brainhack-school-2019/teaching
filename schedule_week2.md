@@ -32,7 +32,7 @@
     - 17:00 - Dismissal
 
 #### Friday, August 16th
-    - 09:00 - Functional brain parcellation - Pierre Bellec
+    - 09:00 - Introduction to functional brain connectivity - Clare Kelly
     - 10:00 - Free hacking
     - 12:00 - Lunch
     - 13:00 - project presentation
