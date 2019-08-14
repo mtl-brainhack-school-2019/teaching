@@ -26,7 +26,7 @@ Instructors: Pamela K Douglas (resident), Tristan Glatard, Valérie Hayot-Sasson
     - 09:00 - Project work
     - 11:00 - Morning presentation and Q&A - Mahzad Sharifahmadian (District3)
     - 12:00 - Lunch (MB 6.101)
-    - 13:00 - Unconference: "*What we learned at BrainHack*"
+    - 13:00 - Unconference: "What we learned at BrainHack"
     - 15:00 - Project presentations
     - 17:00 - Dismissal
 
