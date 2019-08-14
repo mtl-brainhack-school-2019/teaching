@@ -1,4 +1,4 @@
-#BrainHack Schedule, week 4, "Project wrap up"
+# BrainHack Schedule, week 4, "Project wrap up"
 
 This week will be devoted to project finalization, presentations and report
 writing. Unless otherwise specified, sessions will take place in room **MB 2.430**
@@ -9,7 +9,7 @@ Instructors: Pamela K Douglas (resident), Tristan Glatard, Valérie Hayot-Sasson
     - 09:00 - Morning lecture - Pamela K Douglas
     - 10:00 - Project work
     - 12:00 - Lunch (MB 2.130)
-    - 13:00 - Results clinic (MB 2.231, 2.233, 2.235, 2.237, 2.287, 2.289) [^1]
+    - 13:00 - Results clinic (MB 2.231, 2.233, 2.235, 2.237, 2.287, 2.289)<sup>[1](#rc)</sup>
     - 15:00 - Project work
     - 17:00 - Social at Lord William Pub
 
@@ -17,7 +17,7 @@ Instructors: Pamela K Douglas (resident), Tristan Glatard, Valérie Hayot-Sasson
     - 09:00 - Writing tips - Greg Kiar
     - 10:00 - Project work
     - 12:00 - Lunch (MB 6.101)
-    - 13:00 - Slides clinic (MB 2.231, 2.233, 2.235, 2.237, 2.287, 2.289) [^2]
+    - 13:00 - Slides clinic (MB 2.231, 2.233, 2.235, 2.237, 2.287, 2.289)<sup>[2](#sc)</sup>
     - 15:00 - Project presentations 
     - 17:00 - Dismissal
 
@@ -25,7 +25,7 @@ Instructors: Pamela K Douglas (resident), Tristan Glatard, Valérie Hayot-Sasson
     - 09:00 - Project work
     - 11:00 - Morning presentation and Q&A - Mahzad Sharifahmadian (District3)
     - 12:00 - Lunch (MB 6.101)
-    - 13:00 - Unconference: "*What we learned at BrainHack*" [^3]
+    - 13:00 - Unconference: "*What we learned at BrainHack*"<sup>[3](#uncof)</sup>
     - 15:00 - Project presentations
     - 17:00 - Dismissal
 
@@ -33,7 +33,7 @@ Instructors: Pamela K Douglas (resident), Tristan Glatard, Valérie Hayot-Sasson
     - 09:00 - Morning lecture - Tristan Glatard
     - 10:00 - Project work
     - 12:00 - Lunch (MB 6.101)
-    - 13:00 - Writing clinic (MB 2.231, 2.233, 2.235, 2.237, 2.287, 2.289) [^4]
+    - 13:00 - Writing clinic (MB 2.231, 2.233, 2.235, 2.237, 2.287, 2.289)<sup>[4](#wc)</sup>
     - 15:00 - Project presentations
     - 17:00 - Dismissal
 
@@ -42,22 +42,25 @@ Instructors: Pamela K Douglas (resident), Tristan Glatard, Valérie Hayot-Sasson
     - 12:00 - TBD
     - 14:00 - Dismissal
 
-[^1]: The result clinic will be a 1 or 2 hour activity where groups of 5 students
+<b id="rc">1</b>: The result clinic will be a 1 or 2 hour activity where groups of 5 students
 or less will discuss their project results under the supervision of an instructor.
 They will present their results to each other in a structured but informal way
 and will exchange ideas about them. Students are expected to prepare key figures,
 tables, etc. about their results but no formal presentation. Discussion will be
 about the content of the results and their presentation. 
-[^2]: The slides clinic will be a 1 or 2 hour activity where groups of 5 students
+
+<b id="sc">2</b>: The slides clinic will be a 1 or 2 hour activity where groups of 5 students
 or less will discuss the current status of their project presentation, under the
 supervision of an instructor. It will be an opportunity for students to receive
 feedback on their presentation ahead of the final one. The instructors will also
 provide some tips-and-tricks for making effective presentations.
-[^3]: Students and instructors will propose short, focused presentations on
+
+<b id="unconf">3</b>: Students and instructors will propose short, focused presentations on
 something they learned during the school, which was not a direct piece of the
 curriculum, and could benefit other attendees, such as a tool, a method, a dataset, etc.
 Topics could be suggested from a few days before. Detailed program will be announced on Wednesday morning.
-[^4]: The writing clinic will be a 1 or 2 hour activity where groups of 5 students
+
+<b id="wc">4</b>: The writing clinic will be a 1 or 2 hour activity where groups of 5 students
 or less will discuss the current status of their reports. They will cross-review 
 each other’s report and exchange feedback, with the supervision of an instructor.
 It will be an opportunity for students to receive feedback on their reports before 
