@@ -31,7 +31,10 @@
   - 15:30 - project presentation
     - Machine learning parameter estimation - Joshua `@atrophiedbrain` [repository](https://github.com/mtl-brainhack-school-2019/AtrophiedBrain-machine-learning-parameter-estimation)
     - EEG processing using MNE-python - Antoine `@AntoineBellemard` [repository](https://github.com/mtl-brainhack-school-2019/BrainHackSchool2019_AB)
-    
+    - EEG connectivity - Anna `@anna-monnier` [repository](https://github.com/mtl-brainhack-school-2019/EEG_Connectivity_BrainHack_2019)
+    - Exploring Brain Connectivity Networks in Adolescent Suicide Attempters - Anthony `@gifuni` [repository](https://github.com/mtl-brainhack-school-2019/Anthony-Gifuni-repo)
+    - ECG Pupillometry Pipeline - Marcel `@kaufmannPolyMtl` [repository](https://github.com/mtl-brainhack-school-2019/ecg_pupillometry_pipeline_kaufmann)
+    - Is combining different metrics of rs-fMRI more predictive of age than using only one metric? - Isabelle `@Isabelle-Simard` [repository](https://github.com/mtl-brainhack-school-2019/Isabelle-Simard_Multimodal_ML)    
   - 17:00 - Dismissal
 
 #### Friday, August 16th
