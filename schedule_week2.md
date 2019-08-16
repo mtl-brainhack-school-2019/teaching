@@ -55,4 +55,5 @@
     - memory_task_neuromod - Francois N `@FrancoisNadeau` [repository](https://github.com/mtl-brainhack-school-2019/memory_task_neuromod)
     - Preprocess and analyze task-based fMRI data - `@nhoang` [repository](https://github.com/mtl-brainhack-school-2019/NHoang--Apply-BIDS-fMRIPrep-Nilearn-Jupiter-to-my-task-based-fMRI-data)
     - Exploring behavioural patterns and statistical regularities of vocal improvised performances - Emanuele `@EmanueleB` [repository](https://github.com/mtl-brainhack-school-2019/EmanueleB)
+    - Predicting from Brain Data - Norman @kongnorman [repository](https://github.com/mtl-brainhack-school-2019/kongnorman_BrainDecoding)
   - 17:00 - Dismissal
