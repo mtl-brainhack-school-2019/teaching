@@ -20,7 +20,8 @@ This week will be devoted to science communication. The assignment for this week
     - 9am - 10am: Video assignment update
     - 10am - 12pm: Project work
     - 12pm - 1pm, Lunch
-    - 1pm - 3pm, Individual consultations in M-7306
+    - 1pm - 2pm, Elizabeth DuPre: "#WOLO: Work Open, Lead Open"?     
+    - 2pm - 3pm, Individual consultations in M-7306
     - 3pm - 5pm: Project work
     - 5pm: Open science social at McCarold's Pub
 
@@ -28,7 +29,8 @@ This week will be devoted to science communication. The assignment for this week
     - 9am - 10am: Be friendly to your users: Add comments and tutorials to your code - Giovanni Volpe
     - 10am - 12pm: Project work
     - 12pm - 1pm, Lunch
-    - 1pm - 5pm: Project work
+    - 1pm - 2pm, Individual consultations in M-7306  
+    - 2pm - 5pm: Project work
 
 #### Friday, August 23rd
     - 9am - 11am: Video presentations (12 projects)
