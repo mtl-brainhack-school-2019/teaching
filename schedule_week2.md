@@ -43,16 +43,16 @@
   - 12:00 - Yoga
   - 13:00 - Lunch
   - 14:00 - project presentation
-    - Benchmark of container's image size reduction strategies - Mathieu @mathdugre [repository](https://github.com/mtl-brainhack-school-2019/mathdugre)
-    - Functional Connectivity on Chronic Low Back Pain (CLBP) patients - Christophe @CTanguay-Sabourin [repository](https://github.com/mtl-brainhack-school-2019/Christophe_FunctionalConnectivity_CLBP)
-    - STRUCTURAL MRI EXPLORATION - Rebekah @rwickens [repository](https://github.com/mtl-brainhack-school-2019/rwickens-sMRI-PET)
-    - Working with PSG data from Parkinson's patients - Soraya @Cryomatrix [repository](https://github.com/mtl-brainhack-school-2019/Soraya-sleep-data-in-PD-patients)
-    - qmil-dwi - Vlad @vgrouza [repository](https://github.com/mtl-brainhack-school-2019/qmil-dwi)
-    - iron-meta-pipeline - Matteo @matteomancini [repository](https://github.com/mtl-brainhack-school-2019/matteo-mancini-iron-meta-pipeline)
-    - Preprocessing pipeline for ECG signals recorded in fMRI - François L @sangfroid [repository](https://github.com/mtl-brainhack-school-2019/franclespinas-biosignals)
+    - Benchmark of container's image size reduction strategies - Mathieu `@mathdugre` [repository](https://github.com/mtl-brainhack-school-2019/mathdugre)
+    - Functional Connectivity on Chronic Low Back Pain (CLBP) patients - Christophe `@CTanguay-Sabourin` [repository](https://github.com/mtl-brainhack-school-2019/Christophe_FunctionalConnectivity_CLBP)
+    - STRUCTURAL MRI EXPLORATION - Rebekah `@rwickens` [repository](https://github.com/mtl-brainhack-school-2019/rwickens-sMRI-PET)
+    - Working with PSG data from Parkinson's patients - Soraya `@Cryomatrix` [repository](https://github.com/mtl-brainhack-school-2019/Soraya-sleep-data-in-PD-patients)
+    - qmil-dwi - Vlad `@vgrouza` [repository](https://github.com/mtl-brainhack-school-2019/qmil-dwi)
+    - iron-meta-pipeline - Matteo `@matteomancini` [repository](https://github.com/mtl-brainhack-school-2019/matteo-mancini-iron-meta-pipeline)
+    - Preprocessing pipeline for ECG signals recorded in fMRI - François L `@sangfroid` [repository](https://github.com/mtl-brainhack-school-2019/franclespinas-biosignals)
   - 15:30 - Break
   - 15:45 - project presentation
-    - memory_task_neuromod - Francois N @FrancoisNadeau [repository](https://github.com/mtl-brainhack-school-2019/memory_task_neuromod)
-    - Preprocess and analyze task-based fMRI data - @nhoang [repository](https://github.com/mtl-brainhack-school-2019/NHoang--Apply-BIDS-fMRIPrep-Nilearn-Jupiter-to-my-task-based-fMRI-data)
-    - Exploring behavioural patterns and statistical regularities of vocal improvised performances - Emanuele @EmanueleB [repository](https://github.com/mtl-brainhack-school-2019/EmanueleB)
+    - memory_task_neuromod - Francois N `@FrancoisNadeau` [repository](https://github.com/mtl-brainhack-school-2019/memory_task_neuromod)
+    - Preprocess and analyze task-based fMRI data - `@nhoang` [repository](https://github.com/mtl-brainhack-school-2019/NHoang--Apply-BIDS-fMRIPrep-Nilearn-Jupiter-to-my-task-based-fMRI-data)
+    - Exploring behavioural patterns and statistical regularities of vocal improvised performances - Emanuele `@EmanueleB` [repository](https://github.com/mtl-brainhack-school-2019/EmanueleB)
   - 17:00 - Dismissal
