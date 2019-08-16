@@ -38,10 +38,15 @@
   - 17:00 - Dismissal
 
 #### Friday, August 16th
-  - 09:00 - Introduction to functional brain connectivity - Clare Kelly
+  - 09:00 - Introduction to functional brain connectivity - Clare Kellyhttps://github.com/mtl-brainhack-school-2019/mathdugre
   - 10:00 - Free hacking
-  - 12:00 - Lunch
-  - 13:00 - project presentation
-  - 14:30 - Break
-  - 15:00 - project presentation
+  - 12:00 - Yoga
+  - 13:00 - Lunch
+  - 14:00 - project presentation
+    - Benchmark of container's image size reduction strategies - Mathieu @mathdugre [repository](https://github.com/mtl-brainhack-school-2019/mathdugre)
+    - Functional Connectivity on Chronic Low Back Pain (CLBP) patients
+ - Christophe @CTanguay-Sabourin [repository](https://github.com/mtl-brainhack-school-2019/Christophe_FunctionalConnectivity_CLBP)
+    - STRUCTURAL MRI EXPLORATION - Rebekah @rwickens [repository](https://github.com/mtl-brainhack-school-2019/rwickens-sMRI-PET)
+  - 15:30 - Break
+  - 15:45 - project presentation
   - 17:00 - Dismissal
