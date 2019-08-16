@@ -20,7 +20,7 @@ This week will be devoted to science communication. The assignment for this week
     - 9am - 10am: Video assignment update
     - 10am - 12pm: Project work
     - 12pm - 1pm, Lunch
-    - 1pm - 2pm, Elizabeth DuPre: "#WOLO: Work Open, Lead Open"?     
+    - 1pm - 2pm, "#WOLO: Work Open, Lead Open"? - Elizabeth Dupré    
     - 2pm - 3pm, Individual consultations in M-7306
     - 3pm - 5pm: Project work
     - 5pm: Open science social at McCarold's Pub
