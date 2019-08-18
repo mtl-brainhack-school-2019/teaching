@@ -53,9 +53,9 @@
   - 15:30 - Break
   - 15:45 - project presentation
     - Exploring behavioural patterns and statistical regularities of vocal improvised performances - Emanuele `@EmanueleB` [repository](https://github.com/mtl-brainhack-school-2019/EmanueleB) | [Video](https://youtu.be/OLz5-DtUwbQ?t=1)
-    - Mike [repository](https://github.com/mtl-brainhack-school-2019/Mike_repo)
-    - memory_task_neuromod - Francois N `@FrancoisNadeau` [repository](https://github.com/mtl-brainhack-school-2019/memory_task_neuromod)
-    - Preprocess and analyze task-based fMRI data - `@nhoang` [repository](https://github.com/mtl-brainhack-school-2019/NHoang--Apply-BIDS-fMRIPrep-Nilearn-Jupiter-to-my-task-based-fMRI-data)
-    - Predicting from Brain Data - Norman @kongnorman [repository](https://github.com/mtl-brainhack-school-2019/kongnorman_BrainDecoding)
-    - Yann [repository](https://github.com/mtl-brainhack-school-2019/realtime-nonlinear)
+    - Mike [repository](https://github.com/mtl-brainhack-school-2019/Mike_repo) | [Video](https://youtu.be/OLz5-DtUwbQ?t=642)
+    - memory_task_neuromod - Francois N `@FrancoisNadeau` [repository](https://github.com/mtl-brainhack-school-2019/memory_task_neuromod) | [Video](https://youtu.be/OLz5-DtUwbQ?t=1261)
+    - Preprocess and analyze task-based fMRI data - `@nhoang` [repository](https://github.com/mtl-brainhack-school-2019/NHoang--Apply-BIDS-fMRIPrep-Nilearn-Jupiter-to-my-task-based-fMRI-data) | [Video](https://youtu.be/OLz5-DtUwbQ?t=1825)
+    - Predicting from Brain Data - Norman @kongnorman [repository](https://github.com/mtl-brainhack-school-2019/kongnorman_BrainDecoding) | [Video](https://youtu.be/OLz5-DtUwbQ?t=2422)
+    - Yann [repository](https://github.com/mtl-brainhack-school-2019/realtime-nonlinear) | [Video](https://youtu.be/OLz5-DtUwbQ?t=2968)
   - 17:00 - Dismissal
