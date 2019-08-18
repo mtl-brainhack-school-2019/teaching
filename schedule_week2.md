@@ -52,7 +52,7 @@
     - Preprocessing pipeline for ECG signals recorded in fMRI - François L `@sangfroid` [repository](https://github.com/mtl-brainhack-school-2019/franclespinas-biosignals)
   - 15:30 - Break
   - 15:45 - project presentation
-    - Exploring behavioural patterns and statistical regularities of vocal improvised performances - Emanuele `@EmanueleB` [repository](https://github.com/mtl-brainhack-school-2019/EmanueleB)
+    - Exploring behavioural patterns and statistical regularities of vocal improvised performances - Emanuele `@EmanueleB` [repository](https://github.com/mtl-brainhack-school-2019/EmanueleB) | [Video](https://youtu.be/OLz5-DtUwbQ?t=1)
     - Mike [repository](https://github.com/mtl-brainhack-school-2019/Mike_repo)
     - memory_task_neuromod - Francois N `@FrancoisNadeau` [repository](https://github.com/mtl-brainhack-school-2019/memory_task_neuromod)
     - Preprocess and analyze task-based fMRI data - `@nhoang` [repository](https://github.com/mtl-brainhack-school-2019/NHoang--Apply-BIDS-fMRIPrep-Nilearn-Jupiter-to-my-task-based-fMRI-data)
