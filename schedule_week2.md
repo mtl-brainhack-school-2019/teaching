@@ -2,7 +2,7 @@
   - 09:00 - Introduction to project design and piloting - Pierre Bellec | [slides](https://github.com/mtl-brainhack-school-2019/teaching/raw/master/slides/intro_brainhackschool_bellec.pdf)
   - 10:00 - Free hacking
   - 12:00 - Lunch
-  - 13:00 - Open data resources - Sebastian Urchs
+  - 13:00 - Open data resources - Sebastian Urchs | [Video](https://www.youtube.com/watch?v=KIshK8fienE)
   - 14:00 - Free hacking
   - 17:00 - Dismissal
 
@@ -10,7 +10,7 @@
   - 09:00 - fMRI preprocessing using fMRIprep - Basile Pinsard | [Video](https://www.youtube.com/watch?v=WTcucXAAVBU)
   - 10:00 - Free hacking
   - 12:00 - Lunch
-  - 13:00 - M/EEG processing and MNE python -
+  - 13:00 - M/EEG processing and MNE python - Karim Jerbi
   - 14:00 - Free hacking
   - 17:00 - Dismissal
 
@@ -29,16 +29,16 @@
   - 13:00 - Free Hacking
   - 15:00 - Break 
   - 15:30 - project presentation
-    - Machine learning parameter estimation - Joshua `@atrophiedbrain` [repository](https://github.com/mtl-brainhack-school-2019/AtrophiedBrain-machine-learning-parameter-estimation)
-    - EEG processing using MNE-python - Antoine `@AntoineBellemard` [repository](https://github.com/mtl-brainhack-school-2019/BrainHackSchool2019_AB)
-    - EEG connectivity - Anna `@anna-monnier` [repository](https://github.com/mtl-brainhack-school-2019/EEG_Connectivity_BrainHack_2019)
-    - Exploring Brain Connectivity Networks in Adolescent Suicide Attempters - Anthony `@gifuni` [repository](https://github.com/mtl-brainhack-school-2019/Anthony-Gifuni-repo)
-    - Is combining different metrics of rs-fMRI more predictive of age than using only one metric? - Isabelle `@Isabelle-Simard` [repository](https://github.com/mtl-brainhack-school-2019/Isabelle-Simard_Multimodal_ML)    
+    - Machine learning parameter estimation - Joshua `@atrophiedbrain` [repository](https://github.com/mtl-brainhack-school-2019/AtrophiedBrain-machine-learning-parameter-estimation) 
+    - EEG processing using MNE-python - Antoine `@AntoineBellemard` [repository](https://github.com/mtl-brainhack-school-2019/BrainHackSchool2019_AB) | [Video](https://www.youtube.com/watch?v=-APCSrBDKuc)
+    - EEG connectivity - Anna `@anna-monnier` [repository](https://github.com/mtl-brainhack-school-2019/EEG_Connectivity_BrainHack_2019) | [Video](https://youtu.be/-APCSrBDKuc?t=501)
+    - Exploring Brain Connectivity Networks in Adolescent Suicide Attempters - Anthony `@gifuni` [repository](https://github.com/mtl-brainhack-school-2019/Anthony-Gifuni-repo) | [Video](https://youtu.be/-APCSrBDKuc?t=1304)
+    - Is combining different metrics of rs-fMRI more predictive of age than using only one metric? - Isabelle `@Isabelle-Simard` [repository](https://github.com/mtl-brainhack-school-2019/Isabelle-Simard_Multimodal_ML) | [Video](https://youtu.be/-APCSrBDKuc?t=2332)
     - ECG Pupillometry Pipeline - Marcel `@kaufmannPolyMtl` [repository](https://github.com/mtl-brainhack-school-2019/ecg_pupillometry_pipeline_kaufmann)
   - 17:00 - Dismissal
 
 #### Friday, August 16th
-  - 09:00 - Introduction to functional brain connectivity - Clare Kellyhttps://github.com/mtl-brainhack-school-2019/mathdugre
+  - 09:00 - Introduction to functional brain connectivity - Clare Kelly | [Video](https://youtu.be/OuENZA4eOvU?t=28)
   - 10:00 - Free hacking
   - 12:00 - Yoga
   - 13:00 - Lunch
