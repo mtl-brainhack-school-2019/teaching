@@ -7,6 +7,7 @@ of [Concordia’s John Molson Business School](https://www.google.ca/maps/place/
 Instructors: Pamela K Douglas (resident), Tristan Glatard, Valérie Hayot-Sasson, Greg Kiar.
 
 #### Monday, August 26th
+
     - 09:00 - Morning lecture - Pamela K Douglas
     - 10:00 - Project work
     - 12:00 - Lunch (MB 2.130)
