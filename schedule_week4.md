@@ -8,12 +8,12 @@ Instructors: Pamela K Douglas (resident), Tristan Glatard, Valérie Hayot-Sasson
 
 #### Monday, August 26th
 
-    - 09:00 - Morning lecture - Pamela K Douglas
-    - 10:00 - Project work
-    - 12:00 - Lunch (MB 2.130)
-    - 13:00 - Results clinic (Rooms: MB 2.231, 2.233, 2.235, 2.237, 2.287, 2.289)
-    - 15:00 - Project work
-    - 17:00 - Optional social at [Lord William Pub](https://www.google.ca/maps/place/Lord+William+Pub/@45.4868836,-73.5688611,17z/data=!4m5!3m4!1s0x4cc91a63500ec193:0x977f353854ef967d!8m2!3d45.4869041!4d-73.5670297)
+- 09:00 - Morning lecture - Pamela K Douglas
+- 10:00 - Project work
+- 12:00 - Lunch (MB 2.130)
+- 13:00 - Results clinic (Rooms: MB 2.231, 2.233, 2.235, 2.237, 2.287, 2.289)
+- 15:00 - Project work
+- 17:00 - Optional social at [Lord William Pub](https://www.google.ca/maps/place/Lord+William+Pub/@45.4868836,-73.5688611,17z/data=!4m5!3m4!1s0x4cc91a63500ec193:0x977f353854ef967d!8m2!3d45.4869041!4d-73.5670297)
 
 #### Tuesday, August 27th
     - 09:00 - Writing tips - Greg Kiar
