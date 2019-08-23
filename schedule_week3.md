@@ -36,4 +36,4 @@ This week will be devoted to science communication. The assignment for this week
     - 9am - 11am: Video presentations (12 projects)
     - 11am - 12pm: Reserved timeslot for tutorial/guest lecture (by popular demand)
     - 1pm - 4pm: Video presentations (13 projects) and unconference-style wrap-up
-    - 4pm - 6pm: Social at Pavilion Bombardier
+    - 4pm - 6pm: Social at Le Zeppelin or St Houblon in Côtes des Neiges
