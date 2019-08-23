@@ -8,6 +8,7 @@ Instructors: Pamela K Douglas (resident), Tristan Glatard, Valérie Hayot-Sasson
 
 #### Monday, August 26th
 
+- 8:15 - Breakfast (optional, MB 2.130)
 - 09:00 - Morning lecture - Pamela K Douglas
 - 10:00 - Project work
 - 12:00 - Lunch (MB 2.130)
@@ -16,6 +17,7 @@ Instructors: Pamela K Douglas (resident), Tristan Glatard, Valérie Hayot-Sasson
 - 17:00 - Optional social at [Lord William Pub](https://www.google.ca/maps/place/Lord+William+Pub/@45.4868836,-73.5688611,17z/data=!4m5!3m4!1s0x4cc91a63500ec193:0x977f353854ef967d!8m2!3d45.4869041!4d-73.5670297)
 
 #### Tuesday, August 27th
+- 8:15 - Breakfast (optional, MB 6.101)
 - 09:00 - Writing tips - Greg Kiar
 - 10:00 - Project work
 - 12:00 - Lunch (MB 6.101)
@@ -24,6 +26,7 @@ Instructors: Pamela K Douglas (resident), Tristan Glatard, Valérie Hayot-Sasson
 - 17:00 - Dismissal
 
 #### Wednesday, August 28th
+- 8:15 - Breakfast (optional, MB 6.101)
 - 09:00 - Project work
 - 11:00 - Morning presentation and Q&A - Mahzad Sharifahmadian (District3)
 - 12:00 - Lunch (MB 6.101)
@@ -32,6 +35,7 @@ Instructors: Pamela K Douglas (resident), Tristan Glatard, Valérie Hayot-Sasson
 - 17:00 - Dismissal
 
 #### Thursday, August 29th
+- 8:15 - Breakfast (optional, MB 6.101)
 - 09:00 - Morning lecture - Tristan Glatard
 - 10:00 - Project work
 - 12:00 - Lunch (MB 6.101)
@@ -40,6 +44,7 @@ Instructors: Pamela K Douglas (resident), Tristan Glatard, Valérie Hayot-Sasson
 - 17:00 - Dismissal
 
 #### Friday, August 30th
+- 8:15 - Breakfast (optional, MB 6.101)
 - 10:00 - Project presentations
 - 12:00 - BBQ/picnic at [Beaver Lake](https://www.google.ca/maps/place/Lac+aux+Castors/@45.4987498,-73.5985212,18z/data=!3m1!4b1!4m5!3m4!1s0x4cc91a185a842ba5:0x8ea906bc55b3a996!8m2!3d45.4988179!4d-73.5973997)
 
