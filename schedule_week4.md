@@ -2,45 +2,51 @@
 
 This week will be devoted to project finalization, presentations and report
 writing. Unless otherwise specified, sessions will take place in room **MB 2.430**
-of Concordia’s John Molson Business School, at 1600 Boulevard de Maisonneuve Ouest.
+of [Concordia’s John Molson Business School](https://www.google.ca/maps/place/Concordia+University,+John+Molson+Building/@45.4954142,-73.5813233,17z/data=!3m1!4b1!4m5!3m4!1s0x4cc91a6a52a5e115:0x7f6e51eeba31e9bc!8m2!3d45.4954142!4d-73.5791346), at 1600 Boulevard de Maisonneuve Ouest.
 
 Instructors: Pamela K Douglas (resident), Tristan Glatard, Valérie Hayot-Sasson, Greg Kiar.
 
 #### Monday, August 26th
-    - 09:00 - Morning lecture - Pamela K Douglas
-    - 10:00 - Project work
-    - 12:00 - Lunch (MB 2.130)
-    - 13:00 - Results clinic (Rooms: MB 2.231, 2.233, 2.235, 2.237, 2.287, 2.289)
-    - 15:00 - Project work
-    - 17:00 - Social at Lord William Pub
+
+- 8:15 - Breakfast (optional, MB 2.130)
+- 09:00 - Morning lecture - Pamela K Douglas
+- 10:00 - Project work
+- 12:00 - Lunch (MB 2.130)
+- 13:00 - Results clinic (Rooms: MB 2.231, 2.233, 2.235, 2.237, 2.287, 2.289)
+- 15:00 - Project work
+- 17:00 - Optional social at [Lord William Pub](https://www.google.ca/maps/place/Lord+William+Pub/@45.4868836,-73.5688611,17z/data=!4m5!3m4!1s0x4cc91a63500ec193:0x977f353854ef967d!8m2!3d45.4869041!4d-73.5670297)
 
 #### Tuesday, August 27th
-    - 09:00 - Writing tips - Greg Kiar
-    - 10:00 - Project work
-    - 12:00 - Lunch (MB 6.101)
-    - 13:00 - Slides clinic (Rooms: MB 2.231, 2.233, 2.235, 2.237, 2.287, 2.289)
-    - 15:00 - Project presentations 
-    - 17:00 - Dismissal
+- 8:15 - Breakfast (optional, MB 6.101)
+- 09:00 - Writing tips - Greg Kiar
+- 10:00 - Project work
+- 12:00 - Lunch (MB 6.101)
+- 13:00 - Slides clinic (Rooms: MB 2.231, 2.233, 2.235, 2.237, 2.287, 2.289)
+- 15:00 - Project work 
+- 17:00 - Dismissal
 
 #### Wednesday, August 28th
-    - 09:00 - Project work
-    - 11:00 - Morning presentation and Q&A - Mahzad Sharifahmadian (District3)
-    - 12:00 - Lunch (MB 6.101)
-    - 13:00 - Unconference: "What we learned at BrainHack"
-    - 15:00 - Project presentations
-    - 17:00 - Dismissal
+- 8:15 - Breakfast (optional, MB 6.101)
+- 09:00 - Project work
+- 11:00 - Morning presentation and Q&A - Mahzad Sharifahmadian (District3)
+- 12:00 - Lunch (MB 6.101)
+- 13:00 - Unconference: "What we learned at BrainHack"
+- 15:00 - Project presentations
+- 17:00 - Dismissal
 
 #### Thursday, August 29th
-    - 09:00 - Morning lecture - Tristan Glatard
-    - 10:00 - Project work
-    - 12:00 - Lunch (MB 6.101)
-    - 13:00 - Writing clinic (Rooms: MB 2.231, 2.233, 2.235, 2.237, 2.287, 2.289)
-    - 15:00 - Project presentations
-    - 17:00 - Dismissal
+- 8:15 - Breakfast (optional, MB 6.101)
+- 09:00 - Morning lecture - Tristan Glatard
+- 10:00 - Project work
+- 12:00 - Lunch (MB 6.101)
+- 13:00 - Writing clinic (Rooms: MB 2.231, 2.233, 2.235, 2.237, 2.287, 2.289)
+- 15:00 - Project presentations
+- 17:00 - Dismissal
 
 #### Friday, August 30th
-    - 10:00 - Project presentations
-    - 12:00 - BBQ/picnic
+- 8:15 - Breakfast (optional, MB 6.101)
+- 10:00 - Project presentations
+- 12:00 - BBQ/picnic at [Beaver Lake](https://www.google.ca/maps/place/Lac+aux+Castors/@45.4987498,-73.5985212,18z/data=!3m1!4b1!4m5!3m4!1s0x4cc91a185a842ba5:0x8ea906bc55b3a996!8m2!3d45.4988179!4d-73.5973997)
 
 <b>Results clinic</b>: The result clinic will be a 1 or 2 hour activity where groups of 5 students
 or less will discuss their project results under the supervision of an instructor.
