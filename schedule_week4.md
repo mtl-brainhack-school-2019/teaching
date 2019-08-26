@@ -40,12 +40,12 @@ Instructors: Pamela K Douglas (resident), Tristan Glatard, Valérie Hayot-Sasson
 - 10:00 - Project work (see schedule [here](https://docs.google.com/spreadsheets/d/1EOEzkjSwvPdO5xj_7izdsAWOlxB2T7NvQMMUGsoHdR4/edit?usp=sharing))
 - 12:00 - Lunch (MB 6.101)
 - 13:00 - Writing clinic (Rooms: MB 2.231, 2.233, 2.235, 2.237, 2.287, 2.289)
-- 15:00 - Project presentations (register [here](https://docs.google.com/spreadsheets/d/1YKatj53_4otJd_KWt7raXjgk_e12Q06VieEZSrO5M0U/edit?usp=sharing)!)
+- 15:00 - Project presentations: register [here](https://docs.google.com/spreadsheets/d/1YKatj53_4otJd_KWt7raXjgk_e12Q06VieEZSrO5M0U/edit?usp=sharing), [grading criteria](https://github.com/BrainhackMTL/school2019/blob/master/assets/week4/presentation-grading.md).
 - 17:00 - Dismissal
 
 #### Friday, August 30th
 - 8:15 - Breakfast (optional, MB 6.101)
-- 10:00 - Project presentations (register [here](https://docs.google.com/spreadsheets/d/1YKatj53_4otJd_KWt7raXjgk_e12Q06VieEZSrO5M0U/edit?usp=sharing)!)
+- 10:00 - Project presentations: register [here](https://docs.google.com/spreadsheets/d/1YKatj53_4otJd_KWt7raXjgk_e12Q06VieEZSrO5M0U/edit?usp=sharing), [grading criteria](https://github.com/BrainhackMTL/school2019/blob/master/assets/week4/presentation-grading.md).
 - 12:00 - BBQ/picnic at [Beaver Lake](https://www.google.ca/maps/place/Lac+aux+Castors/@45.4987498,-73.5985212,18z/data=!3m1!4b1!4m5!3m4!1s0x4cc91a185a842ba5:0x8ea906bc55b3a996!8m2!3d45.4988179!4d-73.5973997)
 
 <b>Results clinic</b>: The result clinic will be a 1 or 2 hour activity where groups of 5 students
