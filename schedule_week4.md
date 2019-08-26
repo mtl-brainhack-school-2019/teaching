@@ -21,7 +21,7 @@ Instructors: Pamela K Douglas (resident), Tristan Glatard, Valérie Hayot-Sasson
 - 09:00 - Writing tips - Greg Kiar
 - 10:00 - Project work and individual consultations (see schedule [here](https://docs.google.com/spreadsheets/d/1EOEzkjSwvPdO5xj_7izdsAWOlxB2T7NvQMMUGsoHdR4/edit?usp=sharing))
 - 12:00 - Lunch (MB 6.101)
-- 13:00 - Slides clinic (Rooms: MB 2.231, 2.233, 2.235, 2.237, 2.287, 2.289)
+- 13:00 - Unconference: "What we learned at BrainHack"
 - 15:00 - Project work and individual consultations (see schedule [here](https://docs.google.com/spreadsheets/d/1EOEzkjSwvPdO5xj_7izdsAWOlxB2T7NvQMMUGsoHdR4/edit?usp=sharing))
 - 17:00 - Dismissal
 
@@ -30,7 +30,7 @@ Instructors: Pamela K Douglas (resident), Tristan Glatard, Valérie Hayot-Sasson
 - 09:00 - Project work and individual consultations (see schedule [here](https://docs.google.com/spreadsheets/d/1EOEzkjSwvPdO5xj_7izdsAWOlxB2T7NvQMMUGsoHdR4/edit?usp=sharing))
 - 11:00 - Morning presentation and Q&A - Mahzad Sharifahmadian (District3)
 - 12:00 - Lunch (MB 6.101)
-- 13:00 - Unconference: "What we learned at BrainHack"
+- 13:00 - Presentation clinic (Rooms: MB 2.231, 2.233, 2.235, 2.237, 2.287, 2.289)
 - 15:00 - Project work and individual consultations (see schedule [here](https://docs.google.com/spreadsheets/d/1EOEzkjSwvPdO5xj_7izdsAWOlxB2T7NvQMMUGsoHdR4/edit?usp=sharing))
 - 17:00 - Dismissal
 
@@ -55,7 +55,7 @@ and will exchange ideas about them. Students are expected to prepare key figures
 tables, etc. about their results but no formal presentation. Discussion will be
 about the content of the results and their presentation. 
 
-<b>Slide clinic</b>: The slides clinic will be a 1 or 2 hour activity where groups of 5 students
+<b>Presentation clinic</b>: The presentation clinic will be a 1 or 2 hour activity where groups of 5 students
 or less will discuss the current status of their project presentation, under the
 supervision of an instructor. It will be an opportunity for students to receive
 feedback on their presentation ahead of the final one. The instructors will also
