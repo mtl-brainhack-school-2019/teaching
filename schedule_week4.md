@@ -37,7 +37,7 @@ Instructors: Pamela K Douglas (resident), Tristan Glatard, Valérie Hayot-Sasson
 #### Thursday, August 29th
 - 8:15 - Breakfast (optional, MB 6.101)
 - 09:00 - Morning lecture - Tristan Glatard
-- 10:00 - Project work (see schedule [here](https://docs.google.com/spreadsheets/d/1EOEzkjSwvPdO5xj_7izdsAWOlxB2T7NvQMMUGsoHdR4/edit?usp=sharing))
+- 10:00 - Project work and individual consultations (see schedule [here](https://docs.google.com/spreadsheets/d/1EOEzkjSwvPdO5xj_7izdsAWOlxB2T7NvQMMUGsoHdR4/edit?usp=sharing))
 - 12:00 - Lunch (MB 6.101)
 - 13:00 - Writing clinic (Rooms: MB 2.231, 2.233, 2.235, 2.237, 2.287, 2.289)
 - 15:00 - Project presentations: register [here](https://docs.google.com/spreadsheets/d/1YKatj53_4otJd_KWt7raXjgk_e12Q06VieEZSrO5M0U/edit?usp=sharing), [grading criteria](https://github.com/BrainhackMTL/school2019/blob/master/assets/week4/presentation-grading.md).
