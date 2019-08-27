@@ -13,7 +13,7 @@ Your `README.md` file should include the following sections:
 2. Project definition (about 200 words)
     What were you trying to accomplish, what was your question. 
     This section may include a link to the presentation done during week 3.
-3. Learning Experience (about 200 words)
+3. Learning experience (about 200 words)
     Describe how the project actually happened. In particular, which 
     tools, data and technologies were learned. This section should include 
     paragraphs that you may have already written during week 2 (but it doesn't have to).
