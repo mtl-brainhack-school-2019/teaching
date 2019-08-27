@@ -21,8 +21,7 @@ Instructors: Pamela K Douglas (resident), Tristan Glatard, Valérie Hayot-Sasson
 - 09:00 - Writing tips - Greg Kiar
 - 10:00 - Project work and individual consultations (see schedule [here](https://docs.google.com/spreadsheets/d/1EOEzkjSwvPdO5xj_7izdsAWOlxB2T7NvQMMUGsoHdR4/edit?usp=sharing))
 - 12:00 - Lunch (MB 6.101)
-- 13:00 - Unconference: "What we learned at BrainHack"
-- 15:00 - Project work and individual consultations (see schedule [here](https://docs.google.com/spreadsheets/d/1EOEzkjSwvPdO5xj_7izdsAWOlxB2T7NvQMMUGsoHdR4/edit?usp=sharing))
+- 13:00 - Project work and individual consultations (see schedule [here](https://docs.google.com/spreadsheets/d/1EOEzkjSwvPdO5xj_7izdsAWOlxB2T7NvQMMUGsoHdR4/edit?usp=sharing))
 - 17:00 - Dismissal
 
 #### Wednesday, August 28th
